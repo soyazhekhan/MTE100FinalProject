@@ -15,4 +15,4 @@ The program is coded in a hierarchy style: each function calls smaller functions
 
 The codebase can be found in github in [MainCode.c](https://github.com/soyazhekhan/MTE100FinalProject/blob/master/MainCode.c)
 
-CAD files attached.
+STL files attached.
